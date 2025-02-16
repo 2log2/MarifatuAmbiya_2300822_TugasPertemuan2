@@ -14,7 +14,7 @@ public class NO2 {
         Scanner input = new Scanner(System.in);
         
         System.out.println("Masukkan uang tabungan kamu : ");
-        double uang = input.nextFloat();
+        double uang = input.nextDouble();
         
         System.out.println("Apakah sudah punya pasangan?");
         boolean pasangan = input.nextBoolean();
