@@ -32,9 +32,9 @@ public class TUGASPERTEMUAN2 {
         float pembagian = a / b / c;
         
         System.out.println("Hasil penjumlahan: " +penjumlahan);
-        System.out.println("Hasil penjumlahan: " +pengurangan);
-        System.out.println("Hasil penjumlahan: " +perkalian);
-        System.out.println("Hasil penjumlahan: " +pembagian);
+        System.out.println("Hasil pengurangan: " +pengurangan);
+        System.out.println("Hasil perkalian: " +perkalian);
+        System.out.println("Hasil pembagian: " +pembagian);
         
         
     }
